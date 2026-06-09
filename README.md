@@ -34,7 +34,7 @@ Oyun sunucuları ve topluluk altyapıları için optimize edilmiş, ölçekleneb
 ### 📊 Terminal İstatistikleri
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=C9D1D9&icon_color=00FF99" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Meliodafu-kun&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=C9D1D9&icon_color=00FF99" width="48%" />
 </div>
 
 ---
