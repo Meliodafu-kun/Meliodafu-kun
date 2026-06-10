@@ -13,7 +13,7 @@
 
 ### 👨‍💻 Hakkımda
 
-CS2 sunucu eklentileri (CounterStrikeSharp), Discord bot altyapıları ve **armadon.shop** platformunun teknik süreçlerini geliştiriyorum. Performans ve ölçeklenebilir backend sistemleri üzerine odaklanıyorum.
+Aktif olarak **armadon.shop** bünyesinde Backend ve Oyun Sistemleri Geliştiricisi olarak görev almaktayım. Odak noktam; yüksek performanslı CS2 sunucu eklentileri (CounterStrikeSharp) kodlamak, ölçeklenebilir Discord bot altyapıları inşa etmek ve platformun sürdürülebilir teknik mimarisini yönetmektir.
 
 ---
 
