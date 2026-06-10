@@ -5,7 +5,7 @@
 <h1 align="center">✨ Meliodafu-kun</h1>
 ### Backend & Oyun Sistemleri Geliştiricisi
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=CS2+Eklenti+Mimarisi;Discord+Bot+Sistemleri;Veritabanı+Optimizasyonu;armadon.shop+Geliştiricisi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=CS2+Eklenti+Mimarisi;Discord+Bot+Sistemleri;Veritabanı+Optimizasyonu;armadon.shop;Fivem+CS2+MC+Sunucu+Kurulum)](https://git.io/typing-svg)
 
 </div>
 
