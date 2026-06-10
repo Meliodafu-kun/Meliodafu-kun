@@ -46,10 +46,10 @@ I am actively working as a Backend and Game Systems Developer at **armadon.shop*
 ### 🔗 Contact & Links
 
 <div align="center">
-  <a href="609829528633868305">
+  <a href="https://discord.com/users/609829528633868305">
     <img src="https://img.shields.io/badge/My_Discord-koccan-0D1117?style=for-the-badge&logo=discord&logoColor=36BCF7&labelColor=0D1117&color=36BCF7" alt="My Discord" />
   </a>
-  <a href="INSERT_YOUR_DISCORD_SERVER_LINK_HERE">
+  <a href="https://discord.gg/armadon">
     <img src="https://img.shields.io/badge/Discord_Server-Join-0D1117?style=for-the-badge&logo=discord&logoColor=36BCF7&labelColor=0D1117&color=36BCF7" alt="Discord Server" />
   </a>
   <a href="https://armadon.shop">
