@@ -2,52 +2,52 @@
 
 <div align="center">
 
-# `> Geliştirici: KOC`
-### 🛠️ Backend & Game Systems Geliştiricisi
+# Merhaba, Ben Yiğit
+### ⚡ Backend Developer & Oyun Sistemleri Mimarı
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=400&lines=CS2+Eklenti+Mimarisi;Discord+Bot+Sistemleri;Veritabanı+Optimizasyonu;Yazılım+Mühendisliği)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Counter-Strike+2+Eklenti+Geliştirme;Ölçeklenebilir+Discord+Bot+Sistemleri;Yüksek+Performanslı+Arka+Plan+Mimarisi)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### ⚙️ Altyapı Protokolü: Çevrimiçi
+### 👨‍💻 Hakkımda
 
-Oyun sunucuları ve topluluk altyapıları için optimize edilmiş, ölçeklenebilir backend çözümleri inşa ediyorum. Geliştirme sürecimde temel odak noktalarım:
+Oyun sunucuları ve topluluk platformları için modern, optimize edilmiş ve stabil çalışan arka plan (backend) sistemleri geliştiriyorum. Projelerimde performansı ve sürdürülebilir kod mimarisini temel alıyorum.
 
-* **Ana Geliştirme Odakları:** Counter-Strike 2 (CounterStrikeSharp) için gelişmiş eklentiler ve oyun mekanikleri.
-* **Topluluk Araçları:** Gelişmiş, API tabanlı Discord bot otomasyon sistemleri.
-* **Teknik Altyapı:** Yüksek performanslı sunucu yapılandırmaları ve sistem entegrasyonları.
-
----
-
-<details>
-<summary><b>💻 Yazılım Geliştirme (Tıkla ve Aç)</b></summary>
-<br>
-
-* **Ana Diller:** `C#` (CounterStrikeSharp), `JavaScript/TypeScript` (Discord.js, Node.js)
-* **Araçlar & Teknolojiler:** GitHub Actions, REST APIs, Veritabanları (örn: PostgreSQL/Redis)
-</details>
+* 🎯 **Ana Odak:** `C#` tabanlı gelişmiş Counter-Strike 2 (CounterStrikeSharp) eklentileri ve sunucu sistemleri.
+* 🤖 **Bot Ekosistemi:** Topluluk yönetimi ve sunucu otomasyonu için kapsamlı Discord bot altyapıları.
+* 🌐 **Ağ:** **[armadon.shop](https://armadon.shop)** projesinin geliştirilmesi ve teknik yönetimi.
 
 ---
 
-### 📊 Terminal İstatistikleri
+### 🛠️ Teknolojiler & Araçlar
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meliodafu-kun&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=C9D1D9&icon_color=00FF99" width="48%" />
+<div align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 </div>
 
 ---
 
-### 📡 İletişim Protokolü
-
-*Aşağıdaki bağlantılar üzerinden ağıma katılın:*
+### 📊 GitHub İstatistikleri
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Ping_At-0D1117?style=for-the-badge&logo=minutemailer&logoColor=00FF99&labelColor=0D1117&color=00FF99" alt="Email" />
-  </a>
+  <!-- DİKKAT: Aşağıdaki URL'de "KULLANICI_ADINIZ" yazan yere kendi GitHub kullanıcı adınızı yazmalısınız. Aksi takdirde istatistik paneli hata verir. -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Meliodafu-kun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="60%" />
+</div>
+
+---
+
+### 🔗 İletişim & Bağlantılar
+
+<div align="center">
   <a href="https://armadon.shop">
-    <img src="https://img.shields.io/badge/Web-armadon.shop-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00FF99&labelColor=0D1117&color=00FF99" alt="Website" />
+    <img src="https://img.shields.io/badge/Web-armadon.shop-0D1117?style=for-the-badge&logo=google-chrome&logoColor=36BCF7&labelColor=0D1117&color=36BCF7" alt="Website" />
+  </a>
+  <a href="mailto:MAIL_ADRESINIZI_BURAYA_YAZIN">
+    <img src="https://img.shields.io/badge/İletişim-E_Posta-0D1117?style=for-the-badge&logo=minutemailer&logoColor=36BCF7&labelColor=0D1117&color=36BCF7" alt="Email" />
   </a>
 </div>
