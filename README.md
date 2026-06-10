@@ -46,8 +46,11 @@ Aktif olarak **armadon.shop** bünyesinde Backend ve Oyun Sistemleri Geliştiric
 ### 🔗 İletişim & Bağlantılar
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/E_Posta-Gönder-0D1117?style=for-the-badge&logo=minutemailer&logoColor=36BCF7&labelColor=0D1117&color=36BCF7" alt="Email" />
+  <a href="DISCORD_PROFIL_LINKINIZI_BURAYA_YAZIN">
+    <img src="https://img.shields.io/badge/My_Discord-Meliodafu--kun-0D1117?style=for-the-badge&logo=discord&logoColor=36BCF7&labelColor=0D1117&color=36BCF7" alt="My Discord" />
+  </a>
+  <a href="DISCORD_SUNUCU_LINKINIZI_BURAYA_YAZIN">
+    <img src="https://img.shields.io/badge/Discord_Server-Katıl-0D1117?style=for-the-badge&logo=discord&logoColor=36BCF7&labelColor=0D1117&color=36BCF7" alt="Discord Server" />
   </a>
   <a href="https://armadon.shop">
     <img src="https://img.shields.io/badge/Web-armadon.shop-0D1117?style=for-the-badge&logo=google-chrome&logoColor=36BCF7&labelColor=0D1117&color=36BCF7" alt="Website" />
